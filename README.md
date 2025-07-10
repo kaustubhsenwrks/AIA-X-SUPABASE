@@ -103,10 +103,10 @@ We’re experimenting with Supabase Realtime to enable:
 🧩 Live Projects Using This Integration
 
 * 🧱 VeyonPlace (Full-stack Git-like platform):
-  [github.com/AIALCHEMIST/veyonplace](https://github.com/AIALCHEMIST/veyonplace)
+  [github.com/worksofsayman/veyonplace](https://github.com/worksofsayman/veyonplace)
 
-* 🛠 mygit CLI tool (Git CLI reimagined):
-  [github.com/AIALCHEMIST/mygit](https://github.com/AIALCHEMIST/mygit)
+* 🛠 Veyon CLI tool (Git CLI reimagined):
+  [github.com/worksofsayman/veyon](https://github.com/Worksofsayman/veyon)
 
 💬 From Us to You
 
